@@ -1,0 +1,47 @@
+.product-form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid black;
+}
+  
+h1 {
+    text-align: center;
+}
+  
+label {
+    font-weight: bold;
+    margin-top: 10px;
+}
+  
+input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid;
+    font-size: 16px;
+}
+  
+textarea {
+    height: 100px;
+}
+  
+.price-fields, .select-fields {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+  
+.price-fields div, .select-fields div {
+    width: 45%;
+}
+  
+button {
+    margin-top: 20px;
+    padding: 12px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}

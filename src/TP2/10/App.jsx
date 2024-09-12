@@ -1,5 +1,5 @@
 export default function App() {
     return (
-        <div>Boa sorte!</div>
+        <div>Ver 08</div>
     )
 }

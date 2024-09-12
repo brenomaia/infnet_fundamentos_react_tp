@@ -1,5 +1,7 @@
+import ProductForm from "./components/ProductForm"
+
 export default function App() {
     return (
-        <div>Hello World</div>
+        <ProductForm />
     )
 }

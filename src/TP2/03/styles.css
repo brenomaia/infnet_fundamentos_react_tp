@@ -1,0 +1,17 @@
+.top-images-div {
+    height: 400px;
+}
+
+.top-img {
+    width: 300px;
+    height: 300px;
+}
+
+.main-div {
+    width: 950px; 
+    display: flex;
+}
+
+.content-div {
+    width: 450px;
+}

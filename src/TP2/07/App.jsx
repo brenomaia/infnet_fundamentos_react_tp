@@ -1,5 +1,5 @@
 export default function App() {
     return (
-        <div>Hello World</div>
+        <div>Checar responsividade do exercício 06</div>
     )
 }

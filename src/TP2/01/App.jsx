@@ -1,5 +1,7 @@
+import Produto from "../../TP2/01/components/Produto"
+
 export default function App() {
     return (
-        <div>Hello World</div>
+        <Produto />
     )
 }
