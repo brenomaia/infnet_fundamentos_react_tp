@@ -1,5 +1,11 @@
+import StatusBadge from "./components/StatusBadge"
+
 export default function App() {
     return (
-        <div>Hello World</div>
+        <div>
+            < StatusBadge status="ativo" />
+            < StatusBadge status="inativo" />
+            < StatusBadge status="pendente" />
+        </div>
     )
 }
